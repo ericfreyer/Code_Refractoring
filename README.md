@@ -1,0 +1,1 @@
+Here I refractor existing code to make it more accessable to future coders. I added semantic html elements, organized the existing code, and created new selector tags to better specify which parts of the code they are referencing.
